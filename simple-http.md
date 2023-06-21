@@ -24,5 +24,5 @@
         * URL 에 지정된 파일을 지울 수 없으면 403 Forbidden 을 응답합니다.
     * 요청받은 내용을 화면에 출력합니다. (access log)
         * 시간, 요청 method, 경로, 응답 코드, 응답 크기, 응답에 걸린 시간
-Usage
-Usage) shttpd port
+     *  Usage
+        *  Usage) shttpd port
