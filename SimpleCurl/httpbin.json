@@ -1,0 +1,12 @@
+{
+  "args": {},
+  "headers": {
+    "Accept": "*/*",
+    "Host": "httpbin.org",
+    "User-Agent": "curl/7.86.0",
+    "X-Amzn-Trace-Id": "Root=1-640a5c50-5088614b0248a9977da75242",
+    "X-Custom-Header": "NA"
+  },
+  "origin": "121.147.26.80",
+  "url": "http://httpbin.org/get"
+}
